@@ -39,7 +39,7 @@ main{
 
 #share > span{
 	list-style-type: none;
-	padding: 0;
+	padding: 0 0.6em;
 }
 
 #share{
