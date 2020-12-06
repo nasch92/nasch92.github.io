@@ -1,0 +1,87 @@
+/*aaaa*/
+
+body{
+	background-color: #9AD4D6;
+	font-family: 'Lato', sans-serif;
+	font-size: 1.1em;
+}
+
+header{
+	background-color: #F2FDFF;
+	margin: 0 auto;
+	text-align: center;
+	padding: 1em;
+}
+
+header > p {
+	margin: 0 auto;
+	padding: 0.2em;
+}
+
+body{
+    padding:0;
+    margin:0;
+	width: 100%;
+}
+
+main{
+	margin: 0 auto;
+	max-width:25em;
+}
+
+#maintitle{
+	font-size: 1.7em;
+}
+
+#undertitle{
+	margin-bottom: 1em;
+}
+
+#share > span{
+	list-style-type: none;
+	padding: 0;
+}
+
+#share{
+	color: #0778d7;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-content: center;
+	margin: 0 auto;
+	width: 50%;
+	font-weight: bold;
+}
+
+ul{
+	color: #0778d7;
+}
+
+li{
+	padding: 0.5em;
+}
+
+nav a {
+	color: none;
+}
+
+a:hover{
+	text-decoration: underline;
+	color: #0471A6;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+
+#posts{
+	margin:1em;
+}
+
+footer{
+	border-top: solid gray; 
+	max-width: 40em;
+	text-align: center;
+	margin: 0 auto;
+		margin-top: 10em;
+}
